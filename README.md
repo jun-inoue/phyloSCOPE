@@ -15,8 +15,10 @@ A web tool for phylogenetic taxonomic assignment/grouping of mitochondrial DNA s
 viento (from 30 Aug. 2022) - fast   
 [http://157.82.133.212/phyloscope/](http://157.82.133.212/phyloscope/).
 
+<!-- 
 sakura (from 30 Aug. 2022) - fast   
 [http://153.126.199.44/phyloscope/](http://153.126.199.44/phyloscope/).
+-->
 
 ---
 ## Instruction
