@@ -3,7 +3,7 @@ A web tool for phylogenetic taxonomic assignment/grouping of mitochondrial DNA s
 
 <table width="200" border="0">
   <tr>
-    <td><a href="http://157.82.133.212/phyloscope/" target="_blank">phyloSCOPE</a> is a web tool to identify and binning mitochondrial DNA sequences by estimating phylgoenetic tree. By uploading bulk of unidentified DNAs such as eDNA or barcoding/ancient sequences, phyloSCOPE construct phylogenetic trees for a sequences by using blast hits of your uploaded seqnences and implemented reference databases.
+    <td><a href="http://157.82.133.212/phyloscope/" target="_blank">phyloSCOPE</a> is a web tool to identify mitochondrial DNA sequences by estimating phylgoenetic tree. By uploading bulk of unidentified DNAs such as eDNA or barcoding/ancient sequences, phyloSCOPE construct phylogenetic trees for a sequences by using blast hits of your uploaded seqnences and implemented reference databases. Users can upload users' own reference sequences as a database.
 </td>
   </tr>
 </table>  
