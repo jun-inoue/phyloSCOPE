@@ -15,7 +15,7 @@ sakura (from 30 Aug. 2022) - fast
 
 ---
 ## Instruction
-[Link](http://133.167.86.72/phyloSCOPE/instructionJPN.html).
+[Link](http://133.167.86.72/phyloSCOPE/instruction.html).
 
 ---
 ## Citation
