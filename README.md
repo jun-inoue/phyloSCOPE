@@ -1,5 +1,5 @@
-# phyloSCOPE
-A web tool for phylogenetic taxonomic assignment/grouping of mitochondrial DNA sequences.
+# phyloSCOPE   
+A web tool for phylogenetic taxonomic assignment/grouping of mitochondrial DNA sequences.   
 
 <table width="200" border="0">
   <tr>
