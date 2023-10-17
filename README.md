@@ -19,8 +19,8 @@ sakura (from 30 Aug. 2022) - fast
 
 ---
 ## Citation
-Inoue, J., et al in prep. 
-phyloSCOPE: A web tool for phylogenetic taxonomic assignment/grouping of mitochondrial DNA sequences.
+Inoue, J., et al. 
+phyloSCOPE: A web tool for phylogenetic taxonomic assignment/grouping of mitochondrial DNA sequences. in prep.   
 
 ---
 ## Contact 
