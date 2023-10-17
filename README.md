@@ -4,7 +4,7 @@ phyloSCOPE is a web tool to identify short DNA sequences by estimating phylogene
 
 ---
 
-## Web sites
+## Analysis site   
 viento (from 30 Aug. 2022) - fast   
 [http://157.82.133.212/phyloscope/](http://157.82.133.212/phyloscope/).
 
