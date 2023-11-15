@@ -15,7 +15,7 @@ sakura (from 30 Aug. 2022) - fast
 
 ---
 ## Instruction
-[Link](https://fish-evol.org/phyloSCOPE/instruction/index.html).
+[Link](http://157.82.133.212/phyloscope/instruction/index.html).
  
 ---
 ## Citation
