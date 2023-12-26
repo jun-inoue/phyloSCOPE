@@ -1,5 +1,5 @@
 # phyloSCOPE   
-phyloSCOPE is a web tool to identify short DNA sequences by estimating phylogenetic trees. By uploading bulk of unidentified DNAs such as eDNA or barcoding/ancient sequences, phyloSCOPE constructs phylogenetic trees by using blast hits of users' and implemented reference databases.
+phyloSCOPE is a web tool to identify short DNA sequences by estimating phylogenetic trees. By uploading bulk of sample sequences obtained from eDNA, metabarcoding or ancient DNA studies, phyloSCOPE constructs phylogenetic trees using sequences derived from samples and databases of customized/pre-inetalled references.
 
 
 ---
