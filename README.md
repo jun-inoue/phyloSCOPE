@@ -20,7 +20,7 @@ Link
  
 ---
 ## Citation
-Inoue, J., et al. 
+Inoue J. et al. 
 phyloSCOPE: An automatic web tool that identifies eukaryote metabarcode sequences phylogenetically using custom reference databases. in prep.   
 
 ---
