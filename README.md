@@ -21,7 +21,7 @@ Link
 ---
 ## Citation
 Inoue, J., et al. 
-phyloSCOPE: A web tool for phylogenetic taxonomic assignment/grouping of mitochondrial DNA sequences. in prep.   
+phyloSCOPE: An automatic web tool that identifies eukaryote metabarcode sequences phylogenetically using custom reference databases. in prep.   
 
 ---
 ## Contact 
