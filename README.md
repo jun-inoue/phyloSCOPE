@@ -21,7 +21,7 @@ sakura (from 30 Aug. 2022) - fast
 ---
 ## Citation
 Inoue J. et al. 
-phyloSCOPE: An automatic web tool that identifies eukaryote metabarcode sequences phylogenetically using custom reference databases. in prep.   
+phyloSCOPE: An automatic web tool that identifies eukaryote metabarcode sequences phylogenetically using custom reference databases. submitted.   
 
 ---
 ## Contact 
