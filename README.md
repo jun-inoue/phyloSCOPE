@@ -7,6 +7,7 @@ phyloSCOPE is a web tool for species identification of metabarcoding DNA sequenc
 ## Analysis site   
 [http://157.82.133.212/phyloscope/](http://157.82.133.212/phyloscope/)   
 (from 19 Oct. 2023)   
+[https://orthoscope.jp/phyloscope/](https://orthoscope.jp/phyloscope/)
 
 <!-- 
 sakura (from 19 Oct. 2023)   
